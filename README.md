@@ -2,6 +2,8 @@
 
 ## WV-CPRSv3-16
 
+The version of CPRSChart for WorldVistA EHR 3.1 Ver 3-16 will be referred as WV-CPRSv3-16 in this text.
+
 https://github.com/git-user-a/WV-CPRSv3-16
 
 ## worldvista/worldvista-ehr
